@@ -1,9 +1,7 @@
 # 👋 ¡Hola! Soy Enmanuel Barut
 
-¡Bienvenido a mi perfil de GitHub! Aquí encontrarás proyectos que reflejan mi camino en el mundo de la administración de sistemas y la automatización. 🚀
-
-
-Soy Técnico en Administración de Sistemas en Red con formación en redes, sistemas operativos, hardware, programación y automatización. Me apasiona aprender, resolver problemas técnicos y seguir creciendo en el mundo IT y DevOps 🚀.
+¡Bienvenido a mi perfil de GitHub!  
+Soy Técnico en Administración de Sistemas en Red con formación en redes, sistemas operativos, hardware, programación y automatización. Me apasiona aprender, resolver problemas técnicos y seguir creciendo en el mundo IT y DevOps 🚀. 
 
 ---
 
@@ -56,10 +54,10 @@ Especialidad: Administración de Sistemas en Red
 ## 📫 Contacto
 
 - ✉️ Email: djenmanuelcastillo@gmail.com 
-- 🌐 LinkedIn: [Enmanuel072](https://linkedin.com)
+- 🌐 LinkedIn: [enmanuel-barut](https://www.linkedin.com/in/enmanuel-barut)
 - 🧠 Siempre abierto a aprender y colaborar en nuevos retos
 
-- ## 📊 GitHub Stats
+## 📊 GitHub Stats
   
 ¡En constante crecimiento! Aquí puedes ver mi actividad más reciente:
 
