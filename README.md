@@ -54,7 +54,7 @@ Especialidad: Administración de Sistemas en Red
 ## 📫 Contacto
 
 - ✉️ Email: djenmanuelcastillo@gmail.com 
-- 🌐 LinkedIn: [enmanuel-barut](https://www.linkedin.com/in/enmanuel-barut)
+- 🌐 LinkedIn: [enmanuel-barut](https://www.linkedin.com/in/enmanuel-castillo-a56582297/)
 - 🧠 Siempre abierto a aprender y colaborar en nuevos retos
 
 ## 📊 GitHub Stats
